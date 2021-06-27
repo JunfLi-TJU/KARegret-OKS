@@ -28,7 +28,7 @@ para1_setting <- list(
 sigma     <- 2^(2)
 threshold        <- (para1_setting$B+1)^(-0.5/(para1_setting$B+1))
 
-reptimes  <- 2
+reptimes  <- 10
 runtime   <- c(rep(0, reptimes))
 errorrate <- c(rep(0, reptimes))
 
