@@ -1,0 +1,15 @@
+Supplementary materials, source codes of algorithms and datasets for our paper
+"High-probability Kernel Alignment Regret Bounds for Online Kernel Selection",
+accepted in ECML2021.
+
+We implement all algorithms with R on a Windows machine with 2.5 GHz Core i7 CPU, 
+execute each experiment 10 times with random permutation of all datasets and average all of the results.
+
+The baseline algorithms include: BOGD, Forgetron, OKS and ISKA.
+Our algorithms include: B(AO)2KS, EA2OKS and BEA2OKS.
+
+The datasets are downloaded from: https://www.csie.ntu.edu.tw/∼cjlin/libsvmtools/datasets/
+w7a (Num:24692, Fea: 300), 
+w8a (Num: 49749, Fea: 300), 
+a9a (Num: 48842, Fea: 123),
+ijcnn1 (Num: 141691, Fea: 22).
