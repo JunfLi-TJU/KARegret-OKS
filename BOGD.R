@@ -28,7 +28,7 @@ para1_setting <- list(
 # -2 -1 0 1 2 3
 sigma    <- 2^(-1)
 
-reptimes <- 3
+reptimes <- 10
 runtime  <- c(rep(0, reptimes))
 errorrate<- c(rep(0, reptimes))
 
