@@ -8,7 +8,7 @@ execute each experiment 10 times with random permutation of all datasets and ave
 The baseline algorithms include: BOGD, Forgetron, OKS and ISKA.
 Our algorithms include: B(AO)2KS, EA2OKS and BEA2OKS.
 
-The datasets are downloaded from: https://www.csie.ntu.edu.tw/∼cjlin/libsvmtools/datasets/
+The datasets are downloaded from: https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/
 w7a (Num:24692, Fea: 300), 
 w8a (Num: 49749, Fea: 300), 
 a9a (Num: 48842, Fea: 123),
